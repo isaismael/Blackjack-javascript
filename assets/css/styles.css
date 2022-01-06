@@ -1,5 +1,5 @@
 html, body{
-    margin: 0;
+    margin: 0px;
     background-color: #2F4F30;
     color: white;
 }
@@ -13,12 +13,12 @@ html, body{
     font-size: 25px;
 }
 
-.cartas{
+.cartas {
     position: relative;
     width: 150px;
     left: 100px;
     margin-left: -75px;
 }
-#computadora-cartas,juador-cartas{
-    height: 180px;
+#computadora-cartas, #juador-cartas{
+    height: 240px;
 }
